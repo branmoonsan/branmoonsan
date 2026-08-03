@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 Featured Projects
-Click here to explore my data analysis portfolio. 
+[Click here](https://github.com/branmoonsan/Project-Portfolio) to explore my data analysis portfolio. 
 
 ---
 

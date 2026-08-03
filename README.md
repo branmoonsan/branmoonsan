@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, it's Bran.
 
-<!--
-**branmoonsan/branmoonsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst with a background in product and project management** across financial services, fintech, and education. Having managed 10+ products and transformation projects, I understand how data drives business strategy, product development, and operational decision-making. I enjoy transforming complex data into actionable insights that improve products and support business growth.
 
-Here are some ideas to get you started:
+### 👨‍💻 Primary Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***SQL • PostgreSQL • Excel • Tableau • Python***
+
+---
+
+### 🚀 Featured Projects
+Click here to explore my data analysis portfolio. 
+
+---
+
+### 🤝 Let's get in touch
+* [LinkedIn](https://www.linkedin.com/in/branmoonsan/)
+* brangmoonsan@gmail.com

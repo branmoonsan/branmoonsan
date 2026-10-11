@@ -1,6 +1,6 @@
 ### Hi, it's Bran.
 
-**Data Analyst with a background in product and project management** across financial services, fintech, and education. Having managed 10+ products and transformation projects, I understand how data drives business strategy, product development, and operational decision-making. I enjoy transforming complex data into actionable insights that improve products and support business growth.
+**Data Analyst with a background in project management** across financial services, fintech, and education. Skilled in data analytics, data visualisation, and reporting. I enjoy transforming complex data into actionable insights that improve products and support business growth.
 
 ### 👨‍💻 Tools
 
